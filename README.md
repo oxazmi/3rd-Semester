@@ -1,1 +1,1 @@
-Repositori ini berisi kumpulan tugas pemrograman dari beberapa mata kuliah pada semester 3.
+This repository contains a collection of programming assignments from several third-semester courses, organized in one place for easier access, documentation, and review. Each folder represents a specific course or topic, including the source code and a brief explanation of the completed tasks.
